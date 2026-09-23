@@ -8,19 +8,19 @@ Currently expanding my hands-on expertise in Cloud & DevOps technologies includi
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### Cloud
-AWS | Microsoft Azure
-
-### DevOps
-Docker | Kubernetes | Terraform | Jenkins | CI/CD | Git | GitHub
-
-### Infrastructure
-Windows Server | Linux | Microsoft 365 | Microsoft Entra ID | Networking | Firewall
-
-### Automation
-Python | PowerShell | AI Automation
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
@@ -53,12 +53,14 @@ Python-based procurement automation solution for RFQ communication, quotation ex
 
 ---
 
+
 ## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/prashantmahor
-- Portfolio: https://prashantmahor99.github.io/prashantmahor.github.io/
-- GitHub: https://github.com/prashantmahor99
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant_Mahor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantmahor)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://prashantmahor99.github.io/prashantmahor.github.io/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-prashantmahor99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashantmahor99)
 ---
 
 ### Building. Automating. Learning. Improving. 🚀
