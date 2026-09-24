@@ -2,7 +2,7 @@
 
 ### Senior IT Executive | IT Infrastructure | Cloud | DevOps | Automation
 
-IT Infrastructure professional with 5+ years of experience in enterprise IT operations, system administration, Microsoft 365, Windows Server, Linux, networking, cloud infrastructure, and automation.
+IT Infrastructure professional with 4+ years of experience in enterprise IT operations, system administration, Microsoft 365, Windows Server, Linux, networking, cloud infrastructure, and automation.
 
 Currently expanding my hands-on expertise in Cloud & DevOps technologies including AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Git/GitHub, CI/CD, Python, and Infrastructure as Code.
 
